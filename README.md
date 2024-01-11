@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋. I'm Rui 😊
+
+## Who am i ?
+
+## What I have done :
+
+## What do i want to do ?
+
+
+## Contact me :
+
+
 
 <!--
 **Haeymoss/Haeymoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
