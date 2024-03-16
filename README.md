@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Rui 😊
 
-[![trophy](https://github-profile-trophy.vercel.app/haeymoss=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=haeymoss)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Who am i ?
